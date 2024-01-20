@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\bin\Debug\net7.0\1. Морской бой.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\bin\Debug\net7.0\1. Морской бой.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\bin\Debug\net7.0\1. Морской бой.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\bin\Debug\net7.0\1. Морской бой.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\bin\Debug\net7.0\1. Морской бой.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\refint\1. Морской бой.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\1. Морской бой.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\1. Морской бой\obj\Debug\net7.0\ref\1. Морской бой.dll

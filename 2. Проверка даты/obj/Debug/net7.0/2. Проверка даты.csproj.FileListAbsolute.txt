@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\bin\Debug\net7.0\2. Проверка даты.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\bin\Debug\net7.0\2. Проверка даты.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\bin\Debug\net7.0\2. Проверка даты.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\bin\Debug\net7.0\2. Проверка даты.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\bin\Debug\net7.0\2. Проверка даты.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\refint\2. Проверка даты.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\2. Проверка даты.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\2. Проверка даты\obj\Debug\net7.0\ref\2. Проверка даты.dll

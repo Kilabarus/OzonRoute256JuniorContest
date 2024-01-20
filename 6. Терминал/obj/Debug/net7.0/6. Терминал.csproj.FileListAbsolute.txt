@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\bin\Debug\net7.0\6. Терминал.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\bin\Debug\net7.0\6. Терминал.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\bin\Debug\net7.0\6. Терминал.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\bin\Debug\net7.0\6. Терминал.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\bin\Debug\net7.0\6. Терминал.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\refint\6. Терминал.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\6. Терминал.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\6. Терминал\obj\Debug\net7.0\ref\6. Терминал.dll

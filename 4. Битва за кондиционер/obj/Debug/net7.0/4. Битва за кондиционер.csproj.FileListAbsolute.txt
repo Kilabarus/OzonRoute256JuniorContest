@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\bin\Debug\net7.0\4. Битва за кондиционер.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\bin\Debug\net7.0\4. Битва за кондиционер.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\bin\Debug\net7.0\4. Битва за кондиционер.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\bin\Debug\net7.0\4. Битва за кондиционер.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\bin\Debug\net7.0\4. Битва за кондиционер.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\refint\4. Битва за кондиционер.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\4. Битва за кондиционер.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\4. Битва за кондиционер\obj\Debug\net7.0\ref\4. Битва за кондиционер.dll

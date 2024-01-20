@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\bin\Debug\net7.0\3. Автомобильные номера.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\bin\Debug\net7.0\3. Автомобильные номера.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\bin\Debug\net7.0\3. Автомобильные номера.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\bin\Debug\net7.0\3. Автомобильные номера.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\bin\Debug\net7.0\3. Автомобильные номера.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\refint\3. Автомобильные номера.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\3. Автомобильные номера.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\3. Автомобильные номера\obj\Debug\net7.0\ref\3. Автомобильные номера.dll

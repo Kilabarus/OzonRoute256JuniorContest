@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\bin\Debug\net7.0\5. Компрессия данных.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\bin\Debug\net7.0\5. Компрессия данных.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\bin\Debug\net7.0\5. Компрессия данных.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\bin\Debug\net7.0\5. Компрессия данных.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\bin\Debug\net7.0\5. Компрессия данных.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\refint\5. Компрессия данных.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\5. Компрессия данных.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\5. Компрессия данных\obj\Debug\net7.0\ref\5. Компрессия данных.dll

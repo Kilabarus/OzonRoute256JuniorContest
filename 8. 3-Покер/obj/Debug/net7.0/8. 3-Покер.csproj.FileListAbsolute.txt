@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\bin\Debug\net7.0\8. 3-Покер.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\bin\Debug\net7.0\8. 3-Покер.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\bin\Debug\net7.0\8. 3-Покер.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\bin\Debug\net7.0\8. 3-Покер.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\bin\Debug\net7.0\8. 3-Покер.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\refint\8. 3-Покер.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\8. 3-Покер.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\8. 3-Покер\obj\Debug\net7.0\ref\8. 3-Покер.dll

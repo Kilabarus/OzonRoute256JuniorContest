@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\bin\Debug\net7.0\7. Печать документа.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\bin\Debug\net7.0\7. Печать документа.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\bin\Debug\net7.0\7. Печать документа.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\bin\Debug\net7.0\7. Печать документа.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\bin\Debug\net7.0\7. Печать документа.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\refint\7. Печать документа.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\7. Печать документа.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\7. Печать документа\obj\Debug\net7.0\ref\7. Печать документа.dll

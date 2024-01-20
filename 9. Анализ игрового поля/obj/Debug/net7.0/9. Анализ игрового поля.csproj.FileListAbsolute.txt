@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\bin\Debug\net7.0\9. Анализ игрового поля.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\bin\Debug\net7.0\9. Анализ игрового поля.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\bin\Debug\net7.0\9. Анализ игрового поля.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\bin\Debug\net7.0\9. Анализ игрового поля.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\bin\Debug\net7.0\9. Анализ игрового поля.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\refint\9. Анализ игрового поля.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\9. Анализ игрового поля.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\9. Анализ игрового поля\obj\Debug\net7.0\ref\9. Анализ игрового поля.dll
