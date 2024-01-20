@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\2. Проверка даты\\2. Проверка даты.csproj",
-      "projectName": "2. Проверка даты",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\2. Проверка даты\\2. Проверка даты.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\2. Проверка даты\\02. Проверка даты.csproj",
+      "projectName": "02. Проверка даты",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\2. Проверка даты\\02. Проверка даты.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\2. Проверка даты\\obj\\",
       "projectStyle": "PackageReference",

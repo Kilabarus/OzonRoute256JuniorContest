@@ -38,41 +38,7 @@ namespace TestContest
             }
 
             return input;
-        }
-
-        //static List<BitArray[]> GetInput()
-        //{
-        //    int ReadSingleNumber()
-        //    {
-        //        return Convert.ToInt32(Console.ReadLine());
-        //    }
-
-        //    List<BitArray[]> input = new();
-
-        //    int numOfGroups = ReadSingleNumber();
-        //    for (int i = 0; i < numOfGroups; i++)
-        //    {
-        //        string nm = Console.ReadLine();
-        //        int n = Convert.ToInt32(nm.Split()[0]);
-        //        int m = Convert.ToInt32(nm.Split()[1]);
-
-        //        BitArray[] matrix = new BitArray[n];
-        //        for (int j = 0; j < n; j++)
-        //        {
-        //            matrix[j] = new(m);
-
-        //            string s = Console.ReadLine();
-        //            for (int k = 0; k < m; k++)
-        //            {
-        //                matrix[j][k] = s[k] == '*' ? true : false;
-        //            }
-        //        }
-
-        //        input.Add(matrix);
-        //    }
-
-        //    return input;
-        //}
+        }        
 
         struct Point
         {
@@ -104,12 +70,6 @@ namespace TestContest
                             matrix[i, j] = '#';
                             continue;
                         }
-
-                        //if (i == borderLeftUpPoint.Row || i == borderRightDownPoint.Row || j == borderLeftUpPoint.Column || j == borderRightDownPoint.Column)
-                        //{
-                        //    matrix[i, j] = '#';
-                        //    continue;
-                        //}
 
                         nestingLevels.Add(nestingLevel);
 

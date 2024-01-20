@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\9. Анализ игрового поля\\9. Анализ игрового поля.csproj",
-      "projectName": "9. Анализ игрового поля",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\9. Анализ игрового поля\\9. Анализ игрового поля.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\9. Анализ игрового поля\\09. Анализ игрового поля.csproj",
+      "projectName": "09. Анализ игрового поля",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\9. Анализ игрового поля\\09. Анализ игрового поля.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\9. Анализ игрового поля\\obj\\",
       "projectStyle": "PackageReference",

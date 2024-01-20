@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\bin\Debug\net7.0\10. Дерево комментариев.exe
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\bin\Debug\net7.0\10. Дерево комментариев.deps.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\bin\Debug\net7.0\10. Дерево комментариев.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\bin\Debug\net7.0\10. Дерево комментариев.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\bin\Debug\net7.0\10. Дерево комментариев.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\refint\10. Дерево комментариев.dll
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.pdb
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\10. Дерево комментариев.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\10. Дерево комментариев\obj\Debug\net7.0\ref\10. Дерево комментариев.dll

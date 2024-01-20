@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\0. Template\\0. Template.csproj",
-      "projectName": "0. Template",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\0. Template\\0. Template.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\0. Template\\00. Template.csproj",
+      "projectName": "00. Template",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\0. Template\\00. Template.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\0. Template\\obj\\",
       "projectStyle": "PackageReference",

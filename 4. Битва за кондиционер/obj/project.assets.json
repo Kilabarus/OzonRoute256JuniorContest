@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\4. Битва за кондиционер\\4. Битва за кондиционер.csproj",
-      "projectName": "4. Битва за кондиционер",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\4. Битва за кондиционер\\4. Битва за кондиционер.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\4. Битва за кондиционер\\04. Битва за кондиционер.csproj",
+      "projectName": "04. Битва за кондиционер",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\4. Битва за кондиционер\\04. Битва за кондиционер.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\4. Битва за кондиционер\\obj\\",
       "projectStyle": "PackageReference",

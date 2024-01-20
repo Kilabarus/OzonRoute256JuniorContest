@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\5. Компрессия данных\\5. Компрессия данных.csproj",
-      "projectName": "5. Компрессия данных",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\5. Компрессия данных\\5. Компрессия данных.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\5. Компрессия данных\\05. Компрессия данных.csproj",
+      "projectName": "05. Компрессия данных",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\5. Компрессия данных\\05. Компрессия данных.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\5. Компрессия данных\\obj\\",
       "projectStyle": "PackageReference",

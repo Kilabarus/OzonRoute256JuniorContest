@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\3. Автомобильные номера\\3. Автомобильные номера.csproj",
-      "projectName": "3. Автомобильные номера",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\3. Автомобильные номера\\3. Автомобильные номера.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\3. Автомобильные номера\\03. Автомобильные номера.csproj",
+      "projectName": "03. Автомобильные номера",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\3. Автомобильные номера\\03. Автомобильные номера.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\.NET\\OzonRoute256JuniorContest\\3. Автомобильные номера\\obj\\",
       "projectStyle": "PackageReference",
