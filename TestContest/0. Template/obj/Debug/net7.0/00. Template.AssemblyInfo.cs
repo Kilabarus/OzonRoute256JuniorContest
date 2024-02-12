@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("00. Template")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+efea63b0b1e5cbe5c50bea560128b13632a0f599")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40b4d505c17180b18d98324a17e8d8c09b6ad804")]
 [assembly: System.Reflection.AssemblyProductAttribute("00. Template")]
 [assembly: System.Reflection.AssemblyTitleAttribute("00. Template")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

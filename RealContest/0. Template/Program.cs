@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
-namespace TestContest
+namespace RealContest
 {
     internal class Program
     {

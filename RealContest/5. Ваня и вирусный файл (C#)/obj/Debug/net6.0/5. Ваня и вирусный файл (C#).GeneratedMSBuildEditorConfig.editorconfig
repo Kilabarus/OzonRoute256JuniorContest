@@ -1,0 +1,13 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _5._Ваня_и_вирусный_файл__C__
+build_property.ProjectDir = C:\Users\Admin\Desktop\Programming\.NET\OzonRoute256JuniorContest\RealContest\5. Ваня и вирусный файл (C#)\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
